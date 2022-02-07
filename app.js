@@ -23,3 +23,7 @@ alert(a / b);
 let a = 16;
 let b = 8;
 alert(a ** b);
+
+//- Добавить console.log(’New feature’) в script.js файл
+
+ console.log('New feature')
