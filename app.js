@@ -7,3 +7,19 @@ alert(name);
 let a = 16;
 let b = 8;
 alert(a + b);
+//Subsraction
+let a = 16;
+let b = 8;
+alert(a - b);
+//Multiplication
+let a = 16;
+let b = 8;
+alert(a * b);
+//Division
+let a = 16;
+let b = 8;
+alert(a / b);
+//Exponentiation
+let a = 16;
+let b = 8;
+alert(a ** b);
